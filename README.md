@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Brian Corder, a DevSecOps Engineer, former infrastructure engineer, and homelab afficionado.
 <!--
 **bjcorder/bjcorder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
