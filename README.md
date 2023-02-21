@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Brian Corder, a DevSecOps Engineer, former infrastructure engineer, and homelab afficionado.
 
 ---
 
-### 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 
 * IaC concepts, in particular HashiCorp Terraform
 * Automation and configuration using Ansible
