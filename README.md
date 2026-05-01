@@ -1,14 +1,13 @@
 # Hi there 👋
 
-I'm Brian Corder, a DevSecOps Engineer, former infrastructure engineer, and homelab afficionado.
+I'm Brian Corder, a Product Security Engineer and former infrastructure engineer.
 
 ---
 
 ## 🔭 I’m currently working on ...
 
-* IaC concepts, in particular HashiCorp Terraform
-* Automation and configuration using Ansible
-* Custom OS image development using HashiCorp Packer
+* Research into LLM business logic analysis methodologies.
+* Developing SecFlow, a defensive AppSec model harness.
 
 <!--
 **bjcorder/bjcorder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
