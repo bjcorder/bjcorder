@@ -7,7 +7,7 @@ I'm Brian Corder, a Product Security Engineer and former infrastructure engineer
 ## 🔭 I’m currently working on ...
 
 * Research into LLM business logic analysis methodologies.
-* Developing security-lint, a deterministic linter for business logic flaws and invariant analysis.
+* Developing Rulepath, a deterministic linter for business logic flaws and invariant analysis.
 * Developing SecFlow, a defensive AppSec model harness.
 
 <!--
