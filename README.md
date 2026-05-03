@@ -7,6 +7,7 @@ I'm Brian Corder, a Product Security Engineer and former infrastructure engineer
 ## 🔭 I’m currently working on ...
 
 * Research into LLM business logic analysis methodologies.
+* Maintaining 'deterministic-deps', a GitHub Action for enforcing dependency determinism in CI.
 * Developing Rulepath, a deterministic linter for business logic flaws and invariant analysis.
 * Developing SecFlow, a defensive AppSec model harness.
 
